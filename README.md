@@ -21,7 +21,7 @@
    #### Modules
 
     ```
-    bcrypt
+        bcrypt
     ```
     ```
         body-parser
