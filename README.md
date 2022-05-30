@@ -20,58 +20,55 @@
 
    #### Modules
         ```
-            bcrypt
+         bcrypt
         ```
         ```
-            body-parser
+         body-parser
         ```
         ```
-            connect-flash
+         connect-flash
         ```
         ```
-            connect-mongodb-session
+         connect-mongodb-session
         ```
         ```
-            ejs
+         ejs
         ```
         ```
-            express
+         express
         ```
         ```
-            express-session
+         express-session
         ```
         ```
-            express-validator
+         express-validator
         ```
-            mongoose
-        ```
-        ```
-            mongoose
+         mongoose
         ```
         ```
-            multer
+         mongoose
         ```
         ```
-            multer
+         multer
         ```
 
 ### FontEnd ❤️❤️❤️ 💪💪💪  
 
    ```
-        html
+    html
    ```
    ```
-        css
+    css
    ```
    ```
-        bootstrap
+    bootstrap
    ```
    ```
-        javascript
+    javascript
    ```
-    ```
-        jquery.js
-    ``` 
+   ```
+    jquery.js
+   ``` 
 ### Tools Dev
    ```
     git
